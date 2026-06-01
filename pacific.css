@@ -1,3 +1,13 @@
+/*
+  File: pacific.css
+  GUI Assignment 2: Style a Site with External CSS
+  Alexi Montesinos, UMass Lowell Computer Science
+  Copyright (c) 2026 by Alexi Montesinos. All rights reserved. May be freely copied or
+  excerpted for educational purposes with credit to the author.
+  Created: June 01, 2026
+  Description: Stylesheet for index.html - editing pacific.css so the webpage looks approxitmately like the provided example
+*/
+
 header, hgroup, nav, footer, figure, figcaption, aside, section, article {
     display: block;
 }
